@@ -10,8 +10,10 @@ A Software Engineering Student at Brigham Young University
 | <a href="https://dustyjem.github.io/wdd230/final_project/index.html">My website</a>
 | <a href="https://www.linkedin.com/in/dukeokeke">LinkedIn</a>
 | <a href="https://github.com/dustyjem">GitHub</a>
+
 <br>
  <img src="photo.jpg" alt="Duke Okeke" width="300" height="350"> 
+ <br>
 </div>
 
 
